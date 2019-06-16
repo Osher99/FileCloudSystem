@@ -13419,11 +13419,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\osher\\OneDrive\\Desktop\\GITProjects\\File-Cloud-System\\FileProject\\FileProject\\FileProject.csproj",
+      "projectUniqueName": "C:\\Users\\osher\\OneDrive\\Desktop\\GITProjects\\FileCloudSystem\\FileCloudSystem\\FileProject\\FileProject\\FileProject.csproj",
       "projectName": "FileProject",
-      "projectPath": "C:\\Users\\osher\\OneDrive\\Desktop\\GITProjects\\File-Cloud-System\\FileProject\\FileProject\\FileProject.csproj",
+      "projectPath": "C:\\Users\\osher\\OneDrive\\Desktop\\GITProjects\\FileCloudSystem\\FileCloudSystem\\FileProject\\FileProject\\FileProject.csproj",
       "packagesPath": "C:\\Users\\osher\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\osher\\OneDrive\\Desktop\\GITProjects\\File-Cloud-System\\FileProject\\FileProject\\obj\\",
+      "outputPath": "C:\\Users\\osher\\OneDrive\\Desktop\\GITProjects\\FileCloudSystem\\FileCloudSystem\\FileProject\\FileProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13442,8 +13442,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\osher\\OneDrive\\Desktop\\GITProjects\\File-Cloud-System\\FileProject\\Common\\Common.csproj": {
-              "projectPath": "C:\\Users\\osher\\OneDrive\\Desktop\\GITProjects\\File-Cloud-System\\FileProject\\Common\\Common.csproj"
+            "C:\\Users\\osher\\OneDrive\\Desktop\\GITProjects\\FileCloudSystem\\FileCloudSystem\\FileProject\\Common\\Common.csproj": {
+              "projectPath": "C:\\Users\\osher\\OneDrive\\Desktop\\GITProjects\\FileCloudSystem\\FileCloudSystem\\FileProject\\Common\\Common.csproj"
             }
           }
         }

@@ -31,3 +31,11 @@ C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Common
 C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Common\bin\Debug\netstandard2.0\Common.dll
 C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Common\bin\Debug\netstandard2.0\Common.pdb
 C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
+C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Common\bin\Debug\netstandard2.0\Common.dll
+C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Common\obj\Debug\netstandard2.0\Common.dll
+C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Common\obj\Debug\netstandard2.0\Common.pdb

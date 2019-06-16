@@ -10,22 +10,22 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>69d16539-e936-451a-a739-90a79c1b780f</PackageIdentityName>
     <PackageIdentityPublisher>CN=Meny Lasry</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\obj\x64\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\obj\x64\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\bin\x64\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\bin\x64\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\bin\x64\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\bin\x64\Debug\Client.exe">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\bin\x64\Debug\Client.exe">
       <PackagePath>entrypoint\Client.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\osher\.nuget\packages\commonservicelocator\2.0.2\lib\netstandard2.0\CommonServiceLocator.dll">
@@ -130,73 +130,73 @@
     <AppxPackagedFile Include="C:\Users\osher\.nuget\packages\system.interactive.async\3.2.0\lib\netstandard2.0\System.Interactive.Async.dll">
       <PackagePath>System.Interactive.Async.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Common\bin\Debug\netstandard2.0\Common.dll">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Common\bin\Debug\netstandard2.0\Common.dll">
       <PackagePath>Common.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.17763.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\Assets\mainbg.jpg">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\Assets\mainbg.jpg">
       <PackagePath>Assets\mainbg.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\bin\x64\Debug\Client.xr.xml">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\bin\x64\Debug\Client.xr.xml">
       <PackagePath>Client.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\bin\x64\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\bin\x64\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\bin\x64\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\bin\x64\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\bin\x64\Debug\Views\LobbyView.xbf">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\bin\x64\Debug\Views\LobbyView.xbf">
       <PackagePath>Views\LobbyView.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\bin\x64\Debug\Views\RegisterView.xbf">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\bin\x64\Debug\Views\RegisterView.xbf">
       <PackagePath>Views\RegisterView.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\bin\x64\Debug\Views\SignInView.xbf">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\bin\x64\Debug\Views\SignInView.xbf">
       <PackagePath>Views\SignInView.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\bin\x64\Debug\Views\UploadFileView.xbf">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\bin\x64\Debug\Views\UploadFileView.xbf">
       <PackagePath>Views\UploadFileView.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\bin\x64\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\bin\x64\Debug\Core\Client.exe">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\bin\x64\Debug\Core\Client.exe">
       <PackagePath>Client.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

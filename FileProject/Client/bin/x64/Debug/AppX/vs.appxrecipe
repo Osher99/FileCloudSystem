@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>69d16539-e936-451a-a739-90a79c1b780f</PackageIdentityName>
     <PackageIdentityPublisher>CN=Meny Lasry</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\obj\x64\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\obj\x64\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\bin\x64\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\bin\x64\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>A74244C0EE2A9477A33EB8866D55330B2382A997246D584F2197917A9147DE86</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>69d16539-e936-451a-a739-90a79c1b780f_1.0.0.0_x64__w31y8808h64vp</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>69d16539-e936-451a-a739-90a79c1b780f_w31y8808h64vp!App</RegisteredUserModeAppID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\bin\x64\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-06-13T19:40:07.373</Modified>
+      <Modified>2019-06-16T07:22:25.750</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\bin\x64\Debug\Client.exe">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\bin\x64\Debug\Client.exe">
       <PackagePath>entrypoint\Client.exe</PackagePath>
-      <Modified>2019-06-13T19:40:05.002</Modified>
+      <Modified>2019-06-16T07:22:23.361</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\osher\.nuget\packages\commonservicelocator\2.0.2\lib\netstandard2.0\CommonServiceLocator.dll">
       <PackagePath>CommonServiceLocator.dll</PackagePath>
@@ -174,95 +174,95 @@
       <PackagePath>System.Interactive.Async.dll</PackagePath>
       <Modified>2018-07-11T10:48:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Common\bin\Debug\netstandard2.0\Common.dll">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Common\bin\Debug\netstandard2.0\Common.dll">
       <PackagePath>Common.dll</PackagePath>
-      <Modified>2019-06-13T19:39:58.487</Modified>
+      <Modified>2019-06-16T07:21:42.268</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.17763.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2018-10-22T23:33:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\Assets\mainbg.jpg">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\Assets\mainbg.jpg">
       <PackagePath>Assets\mainbg.jpg</PackagePath>
       <Modified>2019-03-08T23:41:07.422</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2019-03-06T07:28:11.102</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2018-12-24T11:01:33.204</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-12-24T11:01:33.204</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-12-24T11:01:33.204</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-12-24T11:01:33.204</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-12-24T11:01:33.204</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-12-24T11:01:33.204</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-12-24T11:01:33.204</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\bin\x64\Debug\Client.xr.xml">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\bin\x64\Debug\Client.xr.xml">
       <PackagePath>Client.xr.xml</PackagePath>
       <Modified>2019-03-13T12:41:29.029</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\bin\x64\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\bin\x64\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2019-06-13T19:40:04.797</Modified>
+      <Modified>2019-06-16T07:22:23.189</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\bin\x64\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\bin\x64\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2019-06-13T19:40:04.797</Modified>
+      <Modified>2019-06-16T07:22:23.189</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\bin\x64\Debug\Views\LobbyView.xbf">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\bin\x64\Debug\Views\LobbyView.xbf">
       <PackagePath>Views\LobbyView.xbf</PackagePath>
-      <Modified>2019-06-13T19:40:04.791</Modified>
+      <Modified>2019-06-16T07:22:23.184</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\bin\x64\Debug\Views\RegisterView.xbf">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\bin\x64\Debug\Views\RegisterView.xbf">
       <PackagePath>Views\RegisterView.xbf</PackagePath>
-      <Modified>2019-06-13T19:40:04.797</Modified>
+      <Modified>2019-06-16T07:22:23.189</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\bin\x64\Debug\Views\SignInView.xbf">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\bin\x64\Debug\Views\SignInView.xbf">
       <PackagePath>Views\SignInView.xbf</PackagePath>
-      <Modified>2019-06-13T19:40:04.798</Modified>
+      <Modified>2019-06-16T07:22:23.189</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\bin\x64\Debug\Views\UploadFileView.xbf">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\bin\x64\Debug\Views\UploadFileView.xbf">
       <PackagePath>Views\UploadFileView.xbf</PackagePath>
-      <Modified>2019-06-13T19:40:04.798</Modified>
+      <Modified>2019-06-16T07:22:23.190</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2018-10-22T22:44:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\bin\x64\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2019-06-13T19:40:05.600</Modified>
+      <Modified>2019-06-16T07:22:23.886</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\bin\x64\Debug\Core\Client.exe">
+    <AppxPackagedFile Include="C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\bin\x64\Debug\Core\Client.exe">
       <PackagePath>Client.exe</PackagePath>
-      <Modified>2019-06-13T19:40:07.368</Modified>
+      <Modified>2019-06-16T07:22:25.745</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

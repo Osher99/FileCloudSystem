@@ -1,1 +1,1 @@
-C:\Users\osher\OneDrive\Desktop\GITProjects\File-Cloud-System\FileProject\Client\Client.csproj;x64
+C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Client\Client.csproj;x64

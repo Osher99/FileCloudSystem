@@ -20579,11 +20579,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\osher\\OneDrive\\Desktop\\GITProjects\\File-Cloud-System\\FileProject\\Client\\Client.csproj",
+      "projectUniqueName": "C:\\Users\\osher\\OneDrive\\Desktop\\GITProjects\\FileCloudSystem\\FileCloudSystem\\FileProject\\Client\\Client.csproj",
       "projectName": "Client",
-      "projectPath": "C:\\Users\\osher\\OneDrive\\Desktop\\GITProjects\\File-Cloud-System\\FileProject\\Client\\Client.csproj",
+      "projectPath": "C:\\Users\\osher\\OneDrive\\Desktop\\GITProjects\\FileCloudSystem\\FileCloudSystem\\FileProject\\Client\\Client.csproj",
       "packagesPath": "C:\\Users\\osher\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\osher\\OneDrive\\Desktop\\GITProjects\\File-Cloud-System\\FileProject\\Client\\obj\\",
+      "outputPath": "C:\\Users\\osher\\OneDrive\\Desktop\\GITProjects\\FileCloudSystem\\FileCloudSystem\\FileProject\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -20603,8 +20603,8 @@
       "frameworks": {
         "uap10.0.17134": {
           "projectReferences": {
-            "C:\\Users\\osher\\OneDrive\\Desktop\\GITProjects\\File-Cloud-System\\FileProject\\Common\\Common.csproj": {
-              "projectPath": "C:\\Users\\osher\\OneDrive\\Desktop\\GITProjects\\File-Cloud-System\\FileProject\\Common\\Common.csproj"
+            "C:\\Users\\osher\\OneDrive\\Desktop\\GITProjects\\FileCloudSystem\\FileCloudSystem\\FileProject\\Common\\Common.csproj": {
+              "projectPath": "C:\\Users\\osher\\OneDrive\\Desktop\\GITProjects\\FileCloudSystem\\FileCloudSystem\\FileProject\\Common\\Common.csproj"
             }
           }
         }

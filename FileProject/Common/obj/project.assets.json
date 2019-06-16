@@ -284,11 +284,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\osher\\OneDrive\\Desktop\\GITProjects\\File-Cloud-System\\FileProject\\Common\\Common.csproj",
+      "projectUniqueName": "C:\\Users\\osher\\OneDrive\\Desktop\\GITProjects\\FileCloudSystem\\FileCloudSystem\\FileProject\\Common\\Common.csproj",
       "projectName": "Common",
-      "projectPath": "C:\\Users\\osher\\OneDrive\\Desktop\\GITProjects\\File-Cloud-System\\FileProject\\Common\\Common.csproj",
+      "projectPath": "C:\\Users\\osher\\OneDrive\\Desktop\\GITProjects\\FileCloudSystem\\FileCloudSystem\\FileProject\\Common\\Common.csproj",
       "packagesPath": "C:\\Users\\osher\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\osher\\OneDrive\\Desktop\\GITProjects\\File-Cloud-System\\FileProject\\Common\\obj\\",
+      "outputPath": "C:\\Users\\osher\\OneDrive\\Desktop\\GITProjects\\FileCloudSystem\\FileCloudSystem\\FileProject\\Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

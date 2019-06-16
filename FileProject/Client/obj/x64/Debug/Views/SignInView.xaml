@@ -19,9 +19,9 @@
             <Border Height="550" Width="300"  Background="White" Opacity="0.7"></Border>
             <TextBox x:ConnectionId='2'   x:Name="NameTextBox"   HorizontalAlignment="center" Height="35"   TextWrapping="Wrap"  Margin="404,92,406,399.4" Width="166"  Text="{Binding Email, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
             <PasswordBox x:ConnectionId='3'   x:Name="PasswordBox"  HorizontalAlignment="center" Width="163" Height="35" Margin="418,179,419,336.4" pswrd:PasswordBoxAssistant.BindPassword="True"  pswrd:PasswordBoxAssistant.BoundPassword="{Binding Password,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"/>
-            <TextBlock    Text="Name" HorizontalAlignment="center" FontSize="20"  VerticalAlignment="Top" Margin="479,72,479,0"/>
+            <TextBlock    Text="Email Address" HorizontalAlignment="center" FontSize="20"  VerticalAlignment="Top" Margin="479,72,479,0"/>
             <TextBlock  Text="Password" HorizontalAlignment="center" FontSize="20"  VerticalAlignment="Top" Margin="470,142,470,0" />
-            <TextBlock  Text="Sign In"  TextAlignment="Center" HorizontalAlignment="center"  VerticalAlignment="Top" RenderTransformOrigin="-4.573,0.109" FontSize="30" Width="112" Margin="444,29,444,0"/>
+            <TextBlock  Text="Sign In" FontWeight="Bold" TextAlignment="Center" HorizontalAlignment="center"  VerticalAlignment="Top" RenderTransformOrigin="-4.573,0.109" FontSize="30" Width="112" Margin="444,29,444,0"/>
             <Button Content="Register"    Command="{Binding GoToRegisterView}"  HorizontalAlignment="center"  VerticalAlignment="Top" Width="156" Height="37" Margin="422,437,422,0"  />
             <Button Content="Sign In"  Command="{Binding SignInUserCommand}"  HorizontalAlignment="Center" VerticalAlignment="Top" Width="168" Height="37" Margin="416,227,416,0"/>
             <TextBlock  FontWeight="Bold" FontSize="20" TextAlignment="Center" TextWrapping="Wrap" Text="Dont Have An Account? Register Here :" HorizontalAlignment="Center"  VerticalAlignment="Top" RenderTransformOrigin="0.445,-0.011" Height="52" Width="169" Margin="416,378,415,0"/>

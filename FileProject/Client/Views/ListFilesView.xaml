@@ -1,0 +1,69 @@
+﻿<Page
+    x:Class="Client.Views.ListFilesView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Client.Views"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+            xmlns:i="using:Microsoft.Xaml.Interactivity"
+    xmlns:c="using:Microsoft.Xaml.Interactions.Core"
+    Background="LightBlue"
+    DataContext="{Binding Source={StaticResource Locator}, Path=ListFilesVM}"
+    >
+    <Viewbox Stretch="Fill">
+        <Grid Height="500">
+
+            <i:Interaction.Behaviors>
+                <c:EventTriggerBehavior EventName="Loaded">
+                    <c:InvokeCommandAction  Command="{Binding GetFilesList, Mode=OneWay}"></c:InvokeCommandAction>
+                </c:EventTriggerBehavior>
+            </i:Interaction.Behaviors>
+
+
+            <ListView Name="lstFiles" ItemsSource="{Binding Files}" Height="343" VerticalAlignment="Top" Background="BlanchedAlmond" Margin="0,57,0,0">
+                <ListView.HeaderTemplate>
+                    <DataTemplate>
+                        <Grid Padding="15" Background="{ThemeResource SystemBaseLowColor}">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="350" />
+                                <ColumnDefinition Width="350" />
+                                <ColumnDefinition Width="350"/>
+                                <ColumnDefinition Width="350"/>
+                            </Grid.ColumnDefinitions>
+                            <TextBlock Grid.Column="0"  HorizontalAlignment="Center" Text="File Name" FontSize="20" FontWeight="Bold" FontFamily="Segoe WP Black" Foreground="Blue"/>
+                            <TextBlock Grid.Column="1"  HorizontalAlignment="Center" Text="Description" FontSize="20" FontWeight="Bold" FontFamily="Segoe WP Black" Foreground="Blue"/>
+                            <TextBlock Grid.Column="2"   HorizontalAlignment="Center" Text="File Type"  FontSize="20" FontWeight="Bold" FontFamily="Segoe WP Black" Foreground="Blue"/>
+                            <TextBlock Grid.Column="3"  HorizontalAlignment="Center" Text="Date Uploaded" FontSize="20" FontWeight="Bold" FontFamily="Segoe WP Black" Foreground="Blue"/>
+                        </Grid>
+                    </DataTemplate>
+                </ListView.HeaderTemplate>
+                <ListView.ItemTemplate>
+                    <DataTemplate >
+                        <Grid >
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="350"/>
+                                <ColumnDefinition Width="350"/>
+                                <ColumnDefinition Width="350"/>
+                                <ColumnDefinition Width="350"/>
+                            </Grid.ColumnDefinitions>
+                            <TextBlock  Grid.Column="0" VerticalAlignment="Center"  HorizontalAlignment="Center" Text="{Binding FileName}" FontSize="25" FontWeight="Bold" FontFamily="Segoe WP Black"   ></TextBlock>
+                            <TextBlock  Grid.Column="1"  VerticalAlignment="Center"  HorizontalAlignment="Center" Text="{Binding Description}" FontSize="25" FontWeight="Bold" FontFamily="Segoe WP Black"></TextBlock>
+                            <TextBlock Grid.Column="2"  VerticalAlignment="Center"  HorizontalAlignment="Center" Text="{Binding FileEnding}" FontSize="25" FontWeight="Bold" FontFamily="Segoe WP Black"></TextBlock>
+                            <TextBlock  Grid.Column="3"  VerticalAlignment="Center"  HorizontalAlignment="Center" Text="{Binding DateUploaded}" FontSize="25" FontWeight="Bold" FontFamily="Segoe WP Black"></TextBlock>
+                        </Grid>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+                <i:Interaction.Behaviors>
+                    <c:EventTriggerBehavior EventName="SelectionChanged">
+                        <c:InvokeCommandAction Command="{Binding SelectFileCommand}" CommandParameter="{Binding ElementName=lstFiles, Path=SelectedItem}"></c:InvokeCommandAction>
+                    </c:EventTriggerBehavior>
+                </i:Interaction.Behaviors>
+            </ListView>
+            <Button  Content="Upload File"  Command="{Binding GoToUploadView}" HorizontalAlignment="Right" VerticalAlignment="Bottom" FontSize="40" Width="300" Height="75" Margin="0,0,42,14" />
+            <Button  Content="Sign Out"  Command="{Binding SignOutCommand}" HorizontalAlignment="Left" VerticalAlignment="Bottom" FontSize="40" Width="300" Height="75" Margin="42,0,0,14" />
+            <Button  Content="Download File"  Command="{Binding DownloadFileCommand}" HorizontalAlignment="Left" VerticalAlignment="Bottom" FontSize="40" Width="300" Height="75" Margin="575,0,0,14" />
+
+        </Grid>
+    </Viewbox>
+</Page>

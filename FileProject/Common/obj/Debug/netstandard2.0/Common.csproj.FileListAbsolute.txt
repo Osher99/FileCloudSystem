@@ -39,3 +39,4 @@ C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\File
 C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
 C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Common\obj\Debug\netstandard2.0\Common.dll
 C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Common\obj\Debug\netstandard2.0\Common.pdb
+C:\Users\osher\OneDrive\Desktop\GITProjects\FileCloudSystem\FileCloudSystem\FileProject\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
